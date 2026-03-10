@@ -14,3 +14,4 @@ replay_pid*
 .kotlin/
 .idea
 tmp*
+release
